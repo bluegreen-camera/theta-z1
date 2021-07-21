@@ -1,0 +1,12 @@
+V1.0
+Wed 21 Jul 05:45:59 BST 2021
+1626894960
+temp=39.2'C
+100
+false
+camera is running: 1
+battery_status.txt
+cron.log
+systemd-private-e96b9f4d0fed4ff8a2c2d8a7d60c29b3-rtkit-daemon.service-6TaAvS
+systemd-private-e96b9f4d0fed4ff8a2c2d8a7d60c29b3-systemd-timesyncd.service-qoRrRu
+theta-z1
