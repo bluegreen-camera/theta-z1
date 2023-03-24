@@ -1,0 +1,12 @@
+V1.0
+Fri 24 Mar 04:45:53 GMT 2023
+1679682900
+temp=39.7'C
+99
+true
+camera is running: 1
+battery_status.txt
+cron.log
+systemd-private-877b298e74a74eeb935cf4d84fe93925-rtkit-daemon.service-4jZVCq
+systemd-private-877b298e74a74eeb935cf4d84fe93925-systemd-timesyncd.service-aoJXeo
+theta-z1
